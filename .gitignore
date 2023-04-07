@@ -1,0 +1,9 @@
+composer/
+composer.phar
+database/
+session/
+var/
+vendor/
+.env.development
+error_log
+.htaccess
